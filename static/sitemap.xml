@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+            <url>
+            <loc>http://localhost/static/js/routing</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>            <priority>0</priority>            <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/simple</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/grid</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/crud_index</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/simple_datatables</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/grid</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/api_grid</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/new</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/credit</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/login</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/</loc>
+            <lastmod>2023-11-06T19:35:02+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/new</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/browse</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/540</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/540/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/541</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/541/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/542</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/542/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/543</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/543/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/544</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/congress/544/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2794</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2794/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2795</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2795/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2796</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2796/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2797</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2797/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2798</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2798/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2799</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2799/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2800</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2800/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2801</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2801/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2802</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2802/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2803</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2803/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2804</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2804/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2805</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2805/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2806</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2806/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2807</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2807/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2808</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2808/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2809</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2809/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2810</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2810/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2811</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2811/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2812</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2812/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2813</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2813/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2814</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2814/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2815</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2815/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2816</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2816/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2817</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2817/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2818</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2818/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2819</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2819/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2820</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2820/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2821</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2821/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2822</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2822/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2823</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2823/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2824</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2824/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2825</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2825/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2826</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2826/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2827</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2827/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2828</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2828/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2829</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2829/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2830</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2830/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2831</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2831/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2832</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2832/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2833</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+            <url>
+            <loc>http://localhost/static/term/crud/2833/edit</loc>
+            <lastmod>2023-11-06T19:35:03+00:00</lastmod>                        <changefreq>monthly</changefreq>
+        </url>
+    </urlset>

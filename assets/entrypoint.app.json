@@ -1,0 +1,11 @@
+[
+    "\/assets\/styles\/app.css",
+    "\/assets\/bootstrap.js",
+    "bootstrap\/dist\/css\/bootstrap.min.css",
+    "jquery",
+    "datatables.net-bs5",
+    "jquery",
+    "datatables.net",
+    "jquery",
+    "datatables.net-bs5\/css\/dataTables.bootstrap5.min.css"
+]
